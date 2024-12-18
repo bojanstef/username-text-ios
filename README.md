@@ -25,6 +25,6 @@ If your app wants to show password manager suggestions rather than Apple's "Hide
 **Screenshot**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/98eb9004-a283-4b5a-8dfa-880ba3a0d654" width="419" />
-  <img src="https://github.com/user-attachments/assets/5085e4c2-9845-4389-887f-256e916cf98f" width="419" />
+  <img src="https://github.com/user-attachments/assets/98eb9004-a283-4b5a-8dfa-880ba3a0d654" width="360" />
+  <img src="https://github.com/user-attachments/assets/5085e4c2-9845-4389-887f-256e916cf98f" width="360" />
 </p>
